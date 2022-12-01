@@ -1,0 +1,1 @@
+/home/matytan/rust_learning_project/os-hello/target/riscv64gc-unknown-none-elf/debug/os-hello: /home/matytan/rust_learning_project/os-hello/src/console.rs /home/matytan/rust_learning_project/os-hello/src/lang_items.rs /home/matytan/rust_learning_project/os-hello/src/main.rs
