@@ -1,0 +1,1 @@
+/home/matytan/rustos/rust-os-lab/os-hello/target/riscv64gc-unknown-none-elf/release/os-hello: /home/matytan/rustos/rust-os-lab/os-hello/src/entry.asm /home/matytan/rustos/rust-os-lab/os-hello/src/lang_items.rs /home/matytan/rustos/rust-os-lab/os-hello/src/main.rs

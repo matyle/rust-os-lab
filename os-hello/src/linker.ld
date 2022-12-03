@@ -1,5 +1,7 @@
 OUTPUT_ARCH(riscv)
+/* 全局符合 */
 ENTRY(_start)
+/* 程序入口地址 */
 BASE_ADDRESS = 0x80200000;
 
 SECTIONS
@@ -9,6 +11,7 @@ SECTIONS
 
     stext = .;
     .text : {
+			/* 先于任何段 BASE_ADDRESS 开始 */
         *(.text.entry)
         *(.text .text.*)
     }
